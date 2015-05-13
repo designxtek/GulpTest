@@ -1,0 +1,51 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "angularjs/angular.d.ts": {
+      "commit": "eb3420c93c76638aadf8a5a6456f06611d4b061e"
+    },
+    "angularjs/angular-animate.d.ts": {
+      "commit": "eb3420c93c76638aadf8a5a6456f06611d4b061e"
+    },
+    "angularjs/angular-mocks.d.ts": {
+      "commit": "eb3420c93c76638aadf8a5a6456f06611d4b061e"
+    },
+    "angularjs/angular-cookies.d.ts": {
+      "commit": "eb3420c93c76638aadf8a5a6456f06611d4b061e"
+    },
+    "angularjs/angular-resource.d.ts": {
+      "commit": "eb3420c93c76638aadf8a5a6456f06611d4b061e"
+    },
+    "angularjs/angular-route.d.ts": {
+      "commit": "eb3420c93c76638aadf8a5a6456f06611d4b061e"
+    },
+    "angularjs/angular-sanitize.d.ts": {
+      "commit": "eb3420c93c76638aadf8a5a6456f06611d4b061e"
+    },
+    "d3/d3.d.ts": {
+      "commit": "846a250e0a6f5e6adf6347ee4ca442a9d1abd8fc"
+    },
+    "moment/moment.d.ts": {
+      "commit": "846a250e0a6f5e6adf6347ee4ca442a9d1abd8fc"
+    },
+    "toastr/toastr.d.ts": {
+      "commit": "846a250e0a6f5e6adf6347ee4ca442a9d1abd8fc"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "846a250e0a6f5e6adf6347ee4ca442a9d1abd8fc"
+    },
+    "q/Q.d.ts": {
+      "commit": "846a250e0a6f5e6adf6347ee4ca442a9d1abd8fc"
+    },
+    "underscore/underscore.d.ts": {
+      "commit": "846a250e0a6f5e6adf6347ee4ca442a9d1abd8fc"
+    },
+    "jasmine/jasmine.d.ts": {
+      "commit": "846a250e0a6f5e6adf6347ee4ca442a9d1abd8fc"
+    }
+  }
+}

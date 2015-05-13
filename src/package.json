@@ -1,0 +1,16 @@
+{
+  "name": "MyTest",
+  "version": "1.0.0",
+  "description": "MyTest",
+  "dependencies": {
+    "gulp-tsc": "0.9.4",
+    "typescript": "1.5.0-beta"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-typescript": "^2.7.0",
+    "run-sequence": "^1.1.0", 
+    "merge2": "^0.3.5",
+    "tsd": "^0.5.7"
+  }
+}
